@@ -1,11 +1,11 @@
-# Guess-a-name-project
+# Guess-a-number-project
 
 //Number Guessing Game
 
 import java.util.Scanner;
 import java.util.Random;
 
-public class task9{
+public class Sai{
 
 	public static void main(String args[])
     { 
